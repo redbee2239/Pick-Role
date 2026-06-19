@@ -1,0 +1,9 @@
+services:
+  - type: worker
+    name: pickrole-bot
+    env: node
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: TOKEN
+        sync: false

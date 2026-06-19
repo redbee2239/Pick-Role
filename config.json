@@ -1,0 +1,12 @@
+{
+  "token": "YOUR_BOT_TOKEN",
+  "allowedRoles": ["Admin", "Mod"],
+  "allowedChannels": ["role-selection", "123456789012345678"],
+  "roles": {
+    "emoji_109": "DonutSMP",
+    "fifai": "FreeFire",
+    "kingmc": "KingMC",
+    "amongus": "giveaway",
+    "Minecraft": "MFA"
+  }
+}
